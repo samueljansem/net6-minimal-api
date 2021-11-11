@@ -84,7 +84,7 @@ app.Run();
 To add Migration and update database
 
 ```powershell
-PS C:/ProjectRoot> dotnet ef migrations add InitialMiration
+PS C:\ProjectRoot> dotnet ef migrations add InitialMiration
 
-PS C:/ProjectRoot> dotnet ef database update
+PS C:\ProjectRoot> dotnet ef database update
 ```
